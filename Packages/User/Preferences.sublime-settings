@@ -2,6 +2,5 @@
 	"always_show_minimap_viewport": true,
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"font_size": 11,
-	"http_proxy": "10.66.243.130:8080",
-	"https_proxy": "10.66.243.130:8080"
+	"rulers": [80, 120]
 }
