@@ -106,6 +106,6 @@
 	{ "keys": ["ctrl+."], "command": "paste" },
 	{ "keys": ["ctrl+shift+."], "command": "paste_and_indent" },
 	{ "keys": ["f1"], "command": "fold" },
-	{ "keys": ["f2"], "command": "unfold" },
+	{ "keys": ["shift+f1"], "command": "unfold" },
 	{}
 ]
