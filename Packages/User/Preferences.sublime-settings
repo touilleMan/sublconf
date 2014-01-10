@@ -1,6 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+        "move_to_limit_on_up_down": true,
+        "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"font_size": 11,
 	"rulers": [80, 120]
 }
