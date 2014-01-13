@@ -98,6 +98,11 @@
 	{ "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
 	{ "keys": ["ctrl+shift+a"], "command": "select_all" },
 
+        { "keys": ["home"], "command": "move_to", "args": {"to": "bof", "extend": false} },
+        { "keys": ["end"], "command": "move_to", "args": {"to": "eof", "extend": false} },
+        { "keys": ["shift+home"], "command": "move_to", "args": {"to": "bof", "extend": true} },
+        { "keys": ["shift+end"], "command": "move_to", "args": {"to": "eof", "extend": true} },
+
 	{ "keys": ["alt+right"], "command": "next_view" },
 	{ "keys": ["alt+left"], "command": "prev_view" },
 
